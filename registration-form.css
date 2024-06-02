@@ -12,7 +12,7 @@ body {
   background: rgb(131,58,180);
   background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
 }
-fieldset {
+.container {
   max-width: 650px;
   padding: 28px;
   margin: 0 28px;
@@ -27,4 +27,10 @@ h1 {
   text-align: left;
   color: #fff;
   padding-bottom: 1px solid silver;
-  
+}
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px 0;
+}
