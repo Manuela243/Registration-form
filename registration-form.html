@@ -16,6 +16,7 @@ of it-->
 	<h1>Registration Form</h1>
 <!--Used fieldset to group content, in YT they used div again
 this seems more easier to read and style-->
+<!--TODO make border of fieldset INVISABLE-->
     <fieldset>
 <!--Use for (label) + id (input) to connect them-->
         <label for="name">Full name:
@@ -59,11 +60,12 @@ this seems more easier to read and style-->
         </label>
     </legend>
     <div class="terms-and-conditions">
-        <p>By clicking Sign up, you agree to our <a href="#" onclick="return false;">Terms</a>, Privacy Policy and Cookies Policy.
-            You may receive email/SMS notifications from us and can opt out at any time.
+<!--TODO add diff colors in CSS when clicking the link--><!--TODO Add uppercase in unsusb-->
+        <p>By clicking Sign up, you agree to our <a href="#" onclick="return false;">Terms</a>, <a href="#" onclick="return false;">Privacy Policy</a> and <a href="#" onclick="return false;">Cookies Policy.</a>
+            You may receive email/SMS notifications from Us and can opt out at any time. To <a href="#" onclick="return false;">unsubscribe</a> use provided link.
         </p>
-<!--Since this is an example, all links will NOT lead to anything outside of the webpage-->
-<!--Added "onclick" cause I do not want my link to become something else, for it to get # added to it-->
+<!--*Since this is an example, all links will NOT lead to anything outside of the webpage*-->
+<!--*Added "onclick" cause I do not want my link to become something else, for it to get # added to it*-->
     </div>
 </div>
 </form>
