@@ -3,5 +3,5 @@
 - I choose to use my knowledge and build a new Responsive Registration form
 - I will be using:
 
-- **HTML**
-- **CSS**
+ **HTML** <br>
+ **CSS**
