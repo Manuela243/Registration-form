@@ -16,7 +16,7 @@ fieldset {
   max-width: 650px;
   padding: 28px;
   margin: 0 28px;
-  border-radius: 10px
+  border-radius: 10px;
   overflow: hidden;
   background: rgba(0,0,0,0.2);
   box-shadow: 0 15px 20px rgba(0,0,0,0.6);
