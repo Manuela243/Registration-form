@@ -11,43 +11,42 @@ of it-->
     <link rel="stylesheet" href="registration-form.css">
   </head>
   <body>
-    <div class="Container">
+    <div class="container">
         <form method="post" action="">
 	<h1>Registration Form</h1>
-<!--Used fieldset to group content, in YT they used div again
-this seems more easier to read and style-->
-<!--TODO make border of fieldset INVISABLE-->
-    <fieldset>
-<!--Use for (label) + id (input) to connect them-->
+<div class="content">
+	<div class="input-box">
         <label for="name">Full name:
         <input id="name" type="text" placeholder="Enter full name" name="name" required>
         </label>
-    </fieldset>
-    <fieldset>
+    </div>
+    <div class="input-box">
         <label for="username">Username:
         <input id="username" type="text" placeholder="Enter your username" name="username" required>
         </label>
-    </fieldset>
-    <fieldset>
+    </div>
+    <div class="input-box">
         <label for="email">Email:
         <input id="email" type="text" placeholder="Enter your email" name="email" required>
         </label>
-    </fieldset>
-    <fieldset>
+    </div>
+    <div class="input-box">
         <label for="phone">Phone number:
         <input id="phone" type="text" placeholder="Enter your phone number" name="phone" required>
         </label>
-    </fieldset>
-    <fieldset>
+    </div>
+    <div class="input-box">
         <label for="password">Password:
         <input id="password" type="text" placeholder="Enter new password" name="password" required pattern="[a-z0-5]{8,}" minlength="6">
         </label>
-    </fieldset>
-    <fieldset>
+    </div>
+   <div class="input-box">
         <label for="confirm-password">Confirm Password:
         <input id="confirm-password" type="text" placeholder="Confirm your password" name="confirm-password" required>
         </label>
-    </fieldset>
+    </div>
+    </div>
+    </div>
     <legend> Gender (required)
         <label for="male"> Male
             <input type="radio" id="male" name="gender">
@@ -67,6 +66,8 @@ this seems more easier to read and style-->
 <!--*Since this is an example, all links will NOT lead to anything outside of the webpage*-->
 <!--*Added "onclick" cause I do not want my link to become something else, for it to get # added to it*-->
     </div>
+<div class="button">
+	<button>Register</button>
 </div>
 </form>
   </body>
