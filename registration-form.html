@@ -13,12 +13,9 @@ of it-->
   <body>
     <div class="container">
         <form method="post" action="">
+    <div class="content">
 	<h1>Registration Form</h1>
-<!--Used fieldset to group content, in YT they used div again
-this seems more easier to read and style-->
-<!--TODO make border of fieldset INVISABLE-->
-    <fieldset>
-<!--Use for (label) + id (input) to connect them-->
+    <div class="input-box">
         <label for="name">Full name:
         <input id="name" type="text" placeholder="Enter full name" name="name" required>
         </label>
@@ -48,19 +45,16 @@ this seems more easier to read and style-->
         <input id="confirm-password" type="text" placeholder="Confirm your password" name="confirm-password" required>
         </label>
     </div>
+    <span class="gender-title">Gender</span>
+    <div class="gender-category">
+        <input type="radio" id="male" name="gender">
+        <label for="male"> Male</label>
+        <input type="radio" id="female" name="gender">
+        <label for="female"> Female</label>
+        <input type="radio" id="other" name="gender">
+        <label for="other"> Other</label>
+</div>
     </div>
-    </div>
-    <legend> Gender (required)
-        <label for="male"> Male
-            <input type="radio" id="male" name="gender">
-        </label>
-        <label for="female"> Female
-            <input type="radio" id="female" name="gender">
-        </label>
-        <label for="other"> Other
-            <input type="radio" id="other" name="gender">
-        </label>
-    </legend>
     <div class="terms-and-conditions">
 <!--TODO add diff colors in CSS when clicking the link--><!--TODO Add uppercase in unsusb-->
         <p>By clicking Sign up, you agree to our <a href="#" onclick="return false;">Terms</a>, <a href="#" onclick="return false;">Privacy Policy</a> and <a href="#" onclick="return false;">Cookies Policy.</a>
@@ -73,5 +67,6 @@ this seems more easier to read and style-->
 	<button>Register</button>
 </div>
 </form>
+</div>
   </body>
 </html>
