@@ -59,7 +59,7 @@
   }
 
   .gender-title {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   .input-box input {
@@ -77,7 +77,7 @@
 
 .gender-category label {
     padding: 0 20px 0 5px;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .gender-category {
@@ -85,5 +85,31 @@
 }
 
 .gender-category label, .gender-category input {
-    
+  cursor: pointer;
+}
+
+.terms-and-conditions p {
+    font-size: 14px;
+    font-style: bold;
+    color: #fff;
+    margin: 5px 0;
+    padding: 10px;
+    line-height: 1.5;
+}
+
+.terms-and-conditions a {
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(20, 20, 97);
+}
+
+.terms-and-conditions a:hover {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #e273de;
+}
+/*Did a change of color when you hover with your mouse over the link*/
+
+.button {
+  
 }
