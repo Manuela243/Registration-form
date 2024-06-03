@@ -7,10 +7,5 @@
  **CSS**
 
 - What I learned to use in this assignment:
-1. How to use fieldset
-2. When having fake link, so that the link does not add # to it, to use onclick="return false;"
-3. What we write inside input and how we use for+id to connect it with label
-
-- What I learned to use in this assignment:
 1. When having fake link, so that the link does not add # to it, to use onclick="return false;"
 2. What we write inside input and how we use for+id to connect it with label
