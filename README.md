@@ -47,8 +47,8 @@ I will be using:
 
 ### Useful resources
 
- - [Youtube video](https://www.youtube.com/watch v=GTSNkuKn5ls&pp=ygUacmVnaXN0cmF0aW9uIGZvcm0gaHRtbCBjc3M%3D) - Helped to create it more "alive"
+ - [Youtube video](https://www.youtube.com/watchv=GTSNkuKn5ls&pp=ygUacmVnaXN0cmF0aW9uIGZvcm0gaHRtbCBjc3M%3D) - Helped to create it more "alive"
 
 ## Author
- - Website - [Manuela Lončarić]()
- - LinkedIn - [@manuela-loncaric](www.linkedin.com/in/manuela-lončarić-b335bb246)
+ - Website - [Manuela Lončarić](https://github.com/Manuela243)
+ - LinkedIn - [Manuela Lončarić](www.linkedin.com/in/manuela-lončarić-b335bb246)
