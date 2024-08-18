@@ -4,13 +4,13 @@
 ## Table of contents
 
 - [Overview](#overview)
- - [The assignment](#the-assignment)
- - [Screenshot](#screenshot)
- - [Links](#links)
+  - [The assignment](#the-assignment)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
- - [Built with](#built-with)
- - [What I learned](#what-i-learned)
- - [Useful resources](#useful-resources)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -22,7 +22,7 @@ Hover and color changes as interactive elements on the page.
 
 ### Screenshot
 
-![](/Slike/registration-form.png)
+[![registration-form.png](https://i.postimg.cc/BvG1YYYS/registration-form.png)](https://postimg.cc/0zcQrf1F)
 
 ### Links
 
