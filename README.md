@@ -51,4 +51,4 @@ I will be using:
 
 ## Author
  - Website - [Manuela Lončarić](https://github.com/Manuela243)
- - LinkedIn - [Manuela Lončarić](www.linkedin.com/in/manuela-lončarić-b335bb246)
+ - LinkedIn - [Manuela Lončarić](https://www.linkedin.com/in/manuela-loncaric-19m9l924/)
